@@ -1,0 +1,15 @@
+Volkov Alexandr test task
+
+To run project run Maven command:
+mvn spring-boot:run
+
+After few seconds, web service application will be available by link:
+http://localhost:8080/
+
+Links:
+
+Get all:
+http://localhost:8080/product/
+
+All CRUD operations by id:
+http://localhost:8080/product/1
